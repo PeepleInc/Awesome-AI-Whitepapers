@@ -1,4 +1,4 @@
-# Awesome AI Whitepapers! [Awesome AI Whitepapers](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PeepleInc/Awesome-AI-Whitepapers)
+# Awesome AI Whitepapers! [![Awesome AI Whitepapers!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A Collection of Machine Learning Papers that are relevant to our research and interests
 
 # Contents
