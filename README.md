@@ -1,6 +1,8 @@
 # Awesome AI Whitepapers! [![Awesome AI Whitepapers!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A Collection of Machine Learning Papers that are relevant to our research and interests
 
+The papers are in order of published date and There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md).
+
 # Contents
 
 - [Awesome AI Whitepapers!](https://github.com/sindresorhus/awesome/#Awesome-AI-Whitepapers)
